@@ -49,8 +49,7 @@ Example:
 ```
 
 ## 📎 GitHub Repository
-
-(Add your repo URL here after pushing)
+(https://github.com/ManojKumar-Devops/log-archive-tool)
 
 ## 📈 Future Improvements
 
